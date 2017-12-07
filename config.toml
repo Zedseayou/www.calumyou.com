@@ -1,5 +1,5 @@
 baseurl = "https://calum.netlify.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Calum You  "
+title = "Calum You"
 copyright = "&copy; 2017 Calum You"
 theme = "hugo-academic"
 enableEmoji = true
@@ -50,7 +50,6 @@ defaultContentLanguageInSubdir = false
   avatar = "linkedin.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zcyou@stanford.edu"
   address = "Y2E2 Room 349, 473 Via Ortega, Stanford, CA 94305, USA"
-  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
@@ -207,12 +206,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:zcyou@stanford.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/Zedseayou"
 
   [[params.social]]
     icon = "google-scholar"
@@ -222,7 +221,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/zedseayou"
 
 
 # Navigation Links
