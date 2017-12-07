@@ -1,7 +1,7 @@
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
-theme = "academic"
+baseurl = "https://calum.netlify.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "Calum You"
+copyright = "&copy; 2017 Calum You"
+theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -12,7 +12,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-110890065-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -39,21 +39,22 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Calum You"
+  role = "Research Data Analyst"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "linkedin.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "zcyou@stanford.edu"
+  address = "Y2E2 Room 349, 473 Via Ortega, Stanford, CA 94305, USA"
+  phone = ""
+  skype = ""
   telegram = ""
+  twitter = "zedseayou"
+  github = "zedseayou"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -205,12 +206,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:zcyou@stanford.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/Zedseayou"
 
   [[params.social]]
     icon = "google-scholar"
@@ -220,7 +221,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/zedseayou"
 
 
 # Navigation Links
