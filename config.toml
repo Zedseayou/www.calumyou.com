@@ -206,7 +206,10 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:zcyou@stanford.edu"
-
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "linkedin.com/in/calumyou/"
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
@@ -216,7 +219,6 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/zedseayou"
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
