@@ -23,7 +23,7 @@ weight = 5
   year = 2017
 
 [[education.courses]]
-  course = "B.A"
+  course = "B.A in Economics with Honors"
   institution = "Stanford University"
   year = 2017
  
