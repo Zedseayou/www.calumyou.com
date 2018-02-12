@@ -211,10 +211,6 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "linkedin.com/in/calumyou/"
   [[params.social]]
-    icon = "facebook"
-    icon_pack = "fa"
-    link = "//facebook.com/zedseayou"
-  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/Zedseayou"
@@ -222,6 +218,10 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/zedseayou"
+  [[params.social]]
+    icon = "stack-overflow"
+    icon_pack = "fa"
+    link = "//stackoverflow.com/users/7028459/calum-you"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
