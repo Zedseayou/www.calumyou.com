@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Calum You</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Calum You</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a data scientist and economist on Uber&amp;rsquo;s policy team. I currently study cancellations in the marketplace and demand shocks in Uber Eats. Prior to Uber, I worked at Stanford&amp;rsquo;s Center on Food Security and the Environment, doing research on country-scale crop mapping and yield estimation using satellite imagery. I have a broad array of interests, ranging from methods topics such as econometrics, machine learning and package design, to domain topics including climate, development and transportation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>David B. Lobell</title>
+      <link>/authors/david-b.-lobell/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-b.-lobell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Azzari</title>
+      <link>/authors/george-azzari/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/george-azzari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marshall Burke</title>
+      <link>/authors/marshall-burke/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marshall-burke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefania Di Tommaso</title>
+      <link>/authors/stefania-di-tommaso/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stefania-di-tommaso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Aston</title>
+      <link>/authors/stephen-aston/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-aston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhenong Jin</title>
+      <link>/authors/zhenong-jin/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zhenong-jin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
