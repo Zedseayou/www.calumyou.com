@@ -35,4 +35,22 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """"""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Economics"
+  company_url = ""
+  location = "Stanford, CA"
+  date_start = "2016-06-01"
+  date_end = "2016-09-01"
+  description = """"""
+
+[[experience]]
+  title = "Policy Intern"
+  company = "Governor's Office of Planning and Research"
+  company_url = ""
+  location = "Sacramento, CA"
+  date_start = "2015-06-01"
+  date_end = "2015-09-01"
+  description = """"""
+
 +++
