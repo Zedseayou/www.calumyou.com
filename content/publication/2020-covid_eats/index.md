@@ -26,11 +26,14 @@ abstract: "We analyze how digital platforms can increase the survival rate of fi
 summary: We found evidence that small restaurants experienced significant increases order activity following COVID orders, due to both demand-side and supply-side shocks.
 
 tags:
-- Crop Mapping
-- Remote Sensing
-- Google Earth Engine
-- Development
-- Machine Learning
+ - COVID
+ - coronavirus
+ - platform
+ - sharing economy
+ - crisis
+ - Uber
+ - competition
+ - disruption
 featured: true
 
 links:
