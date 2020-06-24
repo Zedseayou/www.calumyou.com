@@ -3,7 +3,7 @@ title: "Sight for Sorghums: Comparisons of Satellite- and Ground-Based Sorghum Y
 authors:
  - David B. Lobell
  - Stefania Di Tommaso
- - admin
+ - Calum You
  - Ismael Yacoubou Djima
  - Marshall Burke
  - Talip Kilic
@@ -26,7 +26,7 @@ publication_short: Remote Sens.
 abstract: "The advent of multiple satellite systems capable of resolving smallholder agricultural plots raises possibilities for significant advances in measuring and understanding agricultural productivity in smallholder systems. However, since only imperfect yield data are typically available for model training and validation, assessing the accuracy of satellite-based estimates remains a central challenge. Leveraging a survey experiment in Mali, this study uses plot-level sorghum yield estimates, based on farmer reporting and crop cutting, to construct and evaluate estimates from three satellite-based sensors. Consistent with prior work, the analysis indicates low correlation between the ground-based yield measures (r = 0.33). Satellite greenness, as measured by the growing season peak value of the green chlorophyll vegetation index from Sentinel-2, correlates much more strongly with crop cut (r = 0.48) than with self-reported (r = 0.22) yields. Given the inevitable limitations of ground-based measures, the paper reports the results from the regressions of self-reported, crop cut, and (crop cut-calibrated) satellite sorghum yields. The regression covariates explain more than twice as much variation in calibrated satellite yields (R2 = 0.25) compared to self-reported or crop cut yields, suggesting that a satellite-based approach anchored in crop cuts can be used to track sorghum yields as well or perhaps better than traditional measures. Finally, the paper gauges the sensitivity of yield predictions to the use of Sentinel-2 versus higher-resolution imagery from Planetscope and DigitalGlobe. All three sensors exhibit similar performance, suggesting little gains from finer resolutions in this system."
 
 # Summary. An optional shortened abstract.
-summary: We extended crop yield estimation to sorghum in West Africa and compared two ground-based measures with three satellite measures.
+summary: We extended crop yield estimation to sorghum in West Africa and compared two ground-based measures with three satellite measures, finding limited gains from increased resolution.
 
 tags:
 - Crop Mapping
