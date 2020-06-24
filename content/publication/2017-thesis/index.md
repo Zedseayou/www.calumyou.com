@@ -1,7 +1,7 @@
 ---
 title: "Environmental Justice and Climate Policy: Is California’s Cap and Trade Failing Disadvantaged Communities?"
 authors:
- - Calum You
+ - admin
 date: "2017-06-05T00:00:00Z"
 doi:
 

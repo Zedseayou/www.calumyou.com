@@ -3,7 +3,7 @@ title: "Smallholder maize area and yield mapping at national scales with Google 
 authors:
 - Zhenong Jin
 - George Azzari
-- Calum You
+- admin
 - Stefania Di Tommaso
 - Stephen Aston 
 - Marshall Burke

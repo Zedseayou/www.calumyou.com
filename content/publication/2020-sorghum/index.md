@@ -3,7 +3,7 @@ title: "Sight for Sorghums: Comparisons of Satellite- and Ground-Based Sorghum Y
 authors:
  - David B. Lobell
  - Stefania Di Tommaso
- - Calum You
+ - admin
  - Ismael Yacoubou Djima
  - Marshall Burke
  - Talip Kilic

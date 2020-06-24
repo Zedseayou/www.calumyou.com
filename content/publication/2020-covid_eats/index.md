@@ -3,7 +3,7 @@ title: "COVID-19 and Digital Resilience: Evidence from Uber Eats"
 authors:
  - Manav Raj
  - Arun Sundararajan
- - Calum You
+ - admin
 date: "2020-06-12T00:00:00Z"
 doi:
 
