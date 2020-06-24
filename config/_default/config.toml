@@ -31,22 +31,26 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
+	summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
+# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
-
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
-
 [outputFormats.WebAppManifest]
   mediaType = "application/manifest+json"
   rel = "manifest"
-
+# Configure the Markdown renderer.
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
@@ -57,15 +61,33 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
-
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
-
 # Taxonomies.
 [taxonomies]
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+# Related content.
+[related]
+  threshold = 80.0
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "title"
+    weight = 60.0
+  [[related.indices]]
+    name = "summary"
+    weight = 50.0
+  [[related.indices]]
+    name = "tags"
+    weight = 80.0
+  [[related.indices]]
+    name = "categories"
+    weight = 70.0
+  [[related.indices]]
+    name = "authors"
+    weight = 20.0
