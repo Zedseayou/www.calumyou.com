@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a data scientist and economist on Uber's policy team. I currently study cancellations in the marketplace and demand shocks in Uber Eats. Prior to Uber, I worked at Stanford's Center on Food Security and the Environment, doing research on country-scale crop mapping and yield estimation using satellite imagery. I have a broad array of interests, ranging from methods topics such as econometrics, machine learning and package design, to domain topics including climate, development and transportation.
+I am a data scientist and economist on Uber's policy team. I currently work on marketplace fairness, especially around algorithmic bias and disparate impact in driver deactivation outcomes. I previously studied cancellations in the marketplace and demand shocks in Uber Eats. Prior to Uber, I worked at Stanford's Center on Food Security and the Environment, doing research on country-scale crop mapping and yield estimation using satellite imagery. I have a broad array of interests, ranging from methods topics such as econometrics, machine learning and package design, to domain topics including climate, development and transportation.
